@@ -1,7 +1,7 @@
-[![MasterHead](https://developer.apple.com/news/images/og/apple-developer-og.png)](https://github.com/mekala-vamsi-krishna)
+[![MasterHead](https://insights.dice.com/wp-content/uploads/2018/06/Xcode-Mac-iPad-Apple-Dice.png)](https://github.com/mekala-vamsi-krishna)
 <h1 align="center">Hi 👋, I'm Mekala Vamsi Krishna</h1>
 <h3 align="center">A passionate iOS developer from India</h3>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif">
+<img align="right" alt="Coding" width="300" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mekala-vamsi-krishna&label=Profile%20views&color=0e75b6&style=flat" alt="mekala-vamsi-krishna" /> </p>
 
