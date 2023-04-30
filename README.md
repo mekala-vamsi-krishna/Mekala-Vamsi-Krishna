@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to work on **iOS Product based projects**
 
-- 🤝 I’m looking for help with **iOS Developers**
+- 🤝 I’m looking for help from **iOS Developers**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mekala-vamsi-krishna](https://github.com/mekala-vamsi-krishna)
 
