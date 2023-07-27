@@ -1,4 +1,9 @@
-[![MasterHead](https://insights.dice.com/wp-content/uploads/2018/06/Xcode-Mac-iPad-Apple-Dice.png)](https://github.com/mekala-vamsi-krishna)
+<p align="center">
+  <a href="https://github.com/mekala-vamsi-krishna">
+    <img src="https://github.com/mekala-vamsi-krishna/Mekala-Vamsi-Krishna/assets/68817698/da8aef26-37f7-4345-aaf3-395a07039e64" alt="MasterHead">
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Mekala Vamsi Krishna</h1>
 <h3 align="center">A passionate iOS developer from India</h3>
 
