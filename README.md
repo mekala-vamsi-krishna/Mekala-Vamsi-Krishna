@@ -9,31 +9,23 @@
 
 👋 ![](https://komarev.com/ghpvc/?username=mekala-vamsi-krishna&style=flat-square&label=Hey!!!+Developer)
 
-- 🔭 I've worked on [NETFLIX CLONE](https://github.com/mekala-vamsi-krishna/Netflix-Clone.git)
-
-- 🌱 I’m currently learning **SwiftUI**
-
-- 👯 I’m looking to work on **iOS Product based projects**
-
-- 🤝 I’m looking for help from **iOS Developers**
+- 🔭 I am working on [Agri AI](hhttps://github.com/mekala-vamsi-krishna/AgriAI.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/mekala-vamsi-krishna](https://github.com/mekala-vamsi-krishna)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mekala-vamsi-krishna-788220222/](https://www.linkedin.com/in/mekala-vamsi-krishna-788220222/)
 
-- 💬 Ask me about **UIKit, Swift Language, iOS**
+- 💬 Ask me about **Swift, SwiftUI, UIKit**
 
 - 📫 How to reach me **vamsikrishnayadav2002@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1eMtggNQvHIoj6-q_mEF5cC5_asBxaWgw/edit](https://docs.google.com/document/d/1eMtggNQvHIoj6-q_mEF5cC5_asBxaWgw/edit)
 
-- ⚡ Fun fact **Money is ultimate for me**
-
 <h3 align="left">Connect with me :-</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mekala-vamsi-krishna-788220222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mekala-vamsi-krishna-788220222/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mekala vamsi krishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mekala vamsi krishna" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@vamsikrishnayad4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vamsikrishnayad4" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mekala-vamsi-krishna-%E0%B0%AE%E0%B1%87%E0%B0%95%E0%B0%B2-%E0%B0%B5%E0%B0%82%E0%B0%B6%E0%B1%80-%E0%B0%95%E0%B1%83%E0%B0%B7%E0%B1%8D%E0%B0%A3-788220222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mekala-vamsi-krishna-788220222/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16050818/mekala-vamsi-krishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mekala vamsi krishna" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/vamsikrishnayad4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vamsikrishnayad4" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">My Tech Stack ⚡<br></h3>
