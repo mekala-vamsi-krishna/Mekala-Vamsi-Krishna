@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/Translate-Telugu-blue?style=for-the-badge" alt="Translate to Telugu">
   </a>
 </p>
-
+ 
 <p align="center">
   <a href="https://github.com/mekala-vamsi-krishna">
     <kbd><img src="https://developer.apple.com/news/images/og/apple-developer-og-twitter.png" 
